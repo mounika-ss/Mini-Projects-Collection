@@ -5,7 +5,6 @@ It highlights my learning's, problem-solving, implementation and practical skill
 
 ## Projects Include
 - **MySQL demo** → Basic database creation, queries (Insert, Update, Delete, Group By, Order By)  
-- 
 
 ## 🛠 Tech Stack
 - SQL (MySQL)  
@@ -15,7 +14,6 @@ It highlights my learning's, problem-solving, implementation and practical skill
 ```
 Mini-Projects-Collection/
  ├── MySQL/
- ├── 
 ```
 
 ## Purpose
