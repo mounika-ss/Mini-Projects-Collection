@@ -136,3 +136,6 @@ RSVPs Table
 ## 👩‍💻 Author
 **Mounika Seelam**
 - 💼 Open to roles in Data Analytics & Frontend Development
+
+
+Note: I am used chatGPT to understand process
