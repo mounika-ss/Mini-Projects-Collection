@@ -26,6 +26,8 @@ This project demonstrates **full-stack CRUD operations** with a clean UI and liv
   - Alerts for success/failure actions  
   - Clean and modern design with Tailwind CSS  
 
+- Tables as
+  ![screenshot](/Images/tables.png)
 ---
 
 ## 🛠️ Tech Stack
