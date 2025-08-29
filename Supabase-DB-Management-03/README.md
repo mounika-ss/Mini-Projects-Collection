@@ -27,7 +27,8 @@ This project demonstrates **full-stack CRUD operations** with a clean UI and liv
   - Clean and modern design with Tailwind CSS  
 
 - Tables as
-  ![screenshot](/Images/tables.png)
+  ![screenshot](https://github.com/mounika-ss/Mini-Projects-Collection/blob/main/Supabase-DB-Management-03/Images/tables.png)
+
 ---
 
 ## 🛠️ Tech Stack
