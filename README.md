@@ -7,7 +7,8 @@ It highlights my learning's, problem-solving, implementation and practical skill
 - **MySQL demo** → Basic database creation, queries (Insert, Update, Delete, Group By, Order By)  
 
 ## 🛠 Tech Stack
-- SQL (MySQL)  
+- SQL (MySQL)
+- Supabase  
 
 
 ## Subfolders inside:
