@@ -79,7 +79,7 @@ This project can be easily deployed on Vercel
 - Add the .env.local variables in Vercel’s Project Settings → Environment Variables
 - Deploy 🚀
 
-👉 [Live Demo](https://event-management-system-mu-ten.vercel.app/users)
+👉 [Live Demo link](https://event-management-system-mu-ten.vercel.app/users)
 
 
 ---
