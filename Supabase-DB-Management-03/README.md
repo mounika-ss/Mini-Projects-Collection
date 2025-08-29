@@ -38,8 +38,6 @@ This project demonstrates **full-stack CRUD operations** with a clean UI and liv
 
 ## 📸 Screenshots
 
-> _(Add screenshots after running the app – replace placeholders below)_  
-
 ### 🔹 Home Page  
 ![Home Page](screenshots/home.png)  
 
@@ -86,12 +84,13 @@ App will be running at http://localhost:3000 🎉
 
 ### 🌍 Deployment
 This project can be easily deployed on Vercel
- (recommended).
+
 - Connect your GitHub repo to Vercel
 - Add the .env.local variables in Vercel’s Project Settings → Environment Variables
 - Deploy 🚀
 
-👉 Live Demo: https://event-manager-demo.vercel.app
+👉 [Live Demo](https://event-management-system-mu-ten.vercel.app/users)
+
 
 ---
 
@@ -130,7 +129,11 @@ RSVPs Table
 - Supabase Docs - https://supabase.com/docs
 - Next.js Docs - https://nextjs.org/docs
 - Tailwind CSS Docs - https://tailwindcss.com/docs/installation/using-vite
+- I am also included the pdf
+---
 
+## Here the repo for event management system using Next.js
+- [Here the Repo](https://github.com/mounika-ss/event-management-system) 
 ---
 
 ## 👩‍💻 Author
@@ -138,4 +141,4 @@ RSVPs Table
 - 💼 Open to roles in Data Analytics & Frontend Development
 
 
-Note: I am used chatGPT to understand process
+> Note: I am used ChatGPT to understand process, for Guidance and troubleshooting assistance.
