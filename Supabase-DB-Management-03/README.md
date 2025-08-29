@@ -5,7 +5,7 @@ This project demonstrates **full-stack CRUD operations** with a clean UI and liv
 
 ---
 
-## ✨ Features
+## ✨ Tables and Features
 
 - 👥 **Users**
   - Create, edit, delete users  
@@ -36,20 +36,10 @@ This project demonstrates **full-stack CRUD operations** with a clean UI and liv
 
 ---
 
-## 📸 Screenshots
+## 📸 Video
 
-### 🔹 Home Page  
-![Home Page](screenshots/home.png)  
-
-### 🔹 Users Page  
-![Users Page](screenshots/users.png)  
-
-### 🔹 Events Page  
-![Events Page](screenshots/events.png)  
-
-### 🔹 RSVPs Page  
-![RSVPs Page](screenshots/rsvps.png)  
-
+- [Event management system using supabase and next js demo video](https://drive.google.com/file/d/1RTsGCofYllXI7oZ6pk2lzo2o-0VE885t/view?usp=sharing)
+- [Here the Repo](https://github.com/mounika-ss/event-management-system)
 ---
 
 ## 🚀 Getting Started
@@ -132,9 +122,6 @@ RSVPs Table
 - I am also included the pdf
 ---
 
-## Here the repo for event management system using Next.js
-- [Here the Repo](https://github.com/mounika-ss/event-management-system) 
----
 
 ## 👩‍💻 Author
 **Mounika Seelam**
